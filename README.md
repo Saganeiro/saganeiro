@@ -12,6 +12,7 @@ I am a software development engineer in test.
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/TomaszSaganows1)
 
 <br>
+<br>
 
 ## Expertise
 <img align="left" alt="react" src="https://img.shields.io/badge/Selenium-3DDC84?logo=selenium&logoColor=white&style=for-the-badge" />
@@ -21,9 +22,11 @@ I am a software development engineer in test.
 <img align="left" alt="android" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
 
 <br>
+<br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saganeiro)
 
+<br>
 <br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Saganeiro&show_icons=true)
