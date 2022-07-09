@@ -1,6 +1,19 @@
-### Hi there 👋
-
+### Hello World 👋
 I am a software development engineer in test.
+
+I'm familiar with:
+* UI automated tests with Java
+* UI automated tests with C#
+* Selenium
+* SpecFlow
+* TestNG/JUnit
+* Report tools: Surefire/Allure/Extended Report
+* BDD
+* Page Object Pattern
+* Grafana
+* Jenkins
+* Azure DevOps
+* Ranorex / TestComplete
 
 <br>
 
